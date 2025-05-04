@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Káhio Henrique
 
-🎓 Mechanical engineer @ IFES | 📊 Data Science (Marketing Focus) | 💼 Business Developer
+🎓 Mechanical Engineer @ IFES | 📊 Data Science (Marketing Focus) | 💼 Business Developer
 
 ---
 
