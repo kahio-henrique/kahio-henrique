@@ -26,7 +26,7 @@ I believe that good decisions are backed by good data, and I love turning raw nu
 
 ## 🧪 Featured Projects
 
-### 📊 [Ad Segmentation Analysis](https://github.com/your-username/ad-segmentation-analysis)
+### 📊 [Ad Segmentation Analysis](https://github.com/kahio-henrique/ad-segmentation-analysis)
 This notebook explores Meta Ads ad sets and creatives, combining them with internal sales team data to identify which segments generated the most qualified leads.
 
 ---
