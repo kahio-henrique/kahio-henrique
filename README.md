@@ -17,7 +17,7 @@ I believe that good decisions are backed by good data, and I love turning raw nu
 ## 💡 Key Skills
 
 - **Languages & Data**: Python, Pandas, Numpy, Scikit-learn, Scipy, MySQL, SQLAlchemy, PyTorch  
-- **Visualization & BI**: Power BI, Dash, Google Analytics  
+- **Visualization & BI**: Power BI, Seaborn, Google Analytics, Dash  
 - **Marketing Tech**: Meta Ads, Google Ads, A/B Testing, Campaign KPI Tracking
 - **Soft Skills**: Communication, Strategic Thinking, Team Leadership
 - **Others**: Git, Jupyter Lab, Graph API, Google Sheets, Excel
