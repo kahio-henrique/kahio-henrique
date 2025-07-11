@@ -54,6 +54,21 @@ This notebook explores Meta Ads ad sets and creatives, combining them with inter
 
 Currently researching intelligent video surveillance to detect anomalous human behavior in public spaces using spatial computing and computer vision techniques.
 
+
+## 🤝 Collaboration: Gait Movement Classification Model
+📅 Jun 2025 – Jul 2024
+
+**👥 Project Lead**: [Paulino Junior](https://www.linkedin.com/in/paulino-junior-3b609420b/)  
+
+Contributed to a gait-pattern classification system supporting behavioral anomaly detection research.
+
+**My Contributions:**
+- Developed and optimized training workflows for movement classification  
+- Created a Colab notebook for reproducible model training  
+- Contributed to the open-source codebase  
+
+🔗 Repository: [Classification Model for Gait Movements](https://github.com/kahio-henrique/classification-model-for-gait-movements)
+
 ---
 
 ## 🌐 Let's Connect
