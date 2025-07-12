@@ -16,11 +16,11 @@ I believe that good decisions are backed by good data, and I love turning raw nu
 
 ## 💡 Key Skills
 
-- **Languages & Data**: Python, Pandas, Numpy, Scikit-learn, Scipy, MySQL, SQLAlchemy, PyTorch  
-- **Visualization & BI**: Power BI, Seaborn, Google Analytics, Dash  
-- **Marketing Tech**: Meta Ads, Google Ads, A/B Testing, Campaign KPI Tracking
-- **Soft Skills**: Communication, Strategic Thinking, Team Leadership
-- **Others**: Git, Jupyter Lab, Graph API, Google Sheets, Excel
+- **Languages & Data**: Python, Pandas, Numpy, Scikit-learn, Scipy, MySQL, SQLAlchemy, PyTorch.
+- **Visualization & BI**: Power BI, Seaborn, Google Analytics, Dash.  
+- **Marketing Tech**: Meta Ads, Google Ads, A/B Testing, Campaign KPI Tracking.
+- **Soft Skills**: Communication, Strategic Thinking, Team Leadership.
+- **Others**: Git, Jupyter Lab, Graph API, Google Sheets, Excel.
 
 ---
 
@@ -33,39 +33,35 @@ This notebook explores Meta Ads ad sets and creatives, combining them with inter
 
 ## 🔬 Scientific Research
 
-### ✅ Hardware and Graphical Interface for Embedded Fever Screening Subsystems  
+### Hardware and Graphical Interface for Embedded Fever Screening Subsystems  
 📅 Sept 2023 – Aug 2024  
 - Focused on developing a fever screening system with CNNs, infrared thermography, and statistical methods.  
 - Delivered a patent-worthy innovation with public health applications, including a fully functional GUI built in Python.  
-- Published in the XXIX Brazilian Congress of Biomedical Engineering (CBEB) – **Honorable Mention**
+- Published in the XXIX Brazilian Congress of Biomedical Engineering (CBEB) – **Honorable Mention**.
 
 **Patent Submitted:**
 > **Equipamento Portátil Para Triagem de Pessoas Febris em Barreiras Sanitárias**  
-> Patent No: BR 10 2024 009930 3  
-> Filing Date: May 18, 2024
+> No: BR 10 2024 009930 3  | Filed: May 18, 2024
 
 🔒 *GitHub repository is private*
 
-📚 Full project available here:  
-🔗 [IFES Institutional Repository](https://repositorio.ifes.edu.br/handle/123456789/5615)
+📚 Full project available here: [IFES Institutional Repository](https://repositorio.ifes.edu.br/handle/123456789/5615)
 
-### 🔄 Smart Space Video Monitoring for Anomaly Detection in Public Safety  
+### Smart Space Video Monitoring for Anomaly Detection in Public Safety  
 📅 Sept 2024 – Ongoing
 
 Currently researching intelligent video surveillance to detect anomalous human behavior in public spaces using spatial computing and computer vision techniques.
 
-
-## 🤝 Collaboration: Gait Movement Classification Model
-📅 Jun 2025 – Jul 2024
+### Collaboration: Gait Movement Classification Model
+📅 Jun 2025 – Jul 2025
 
 **👥 Project Lead**: [Paulino Junior](https://www.linkedin.com/in/paulino-junior-3b609420b/)  
 
 Contributed to a gait-pattern classification system supporting behavioral anomaly detection research.
 
 **My Contributions:**
-- Developed and optimized training workflows for movement classification  
-- Created a Colab notebook for reproducible model training  
-- Contributed to the open-source codebase  
+- Developed and optimized training workflows using Random Forest and Multilayer Perceptron models.
+- Created a Colab notebook to ensure reproducible model training.
 
 🔗 Repository: [Classification Model for Gait Movements](https://github.com/kahio-henrique/classification-model-for-gait-movements)
 
@@ -79,5 +75,3 @@ Contributed to a gait-pattern classification system supporting behavioral anomal
 ---
 
 > "Good decisions are data-driven. Data isn't the new oil — it's the new map."
-
-
